@@ -1,9 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" role="img" aria-label="Mohamed Alkhazindar — AI Engineer, Riyadh">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" role="img" aria-label="Mohamed Alkhazindar — Artificial Intelligence Engineer">
   <rect x="0.5" y="0.5" width="899" height="259" rx="20" fill="#0d1117" stroke="#30363d"/>
 
   <!-- ======================= detected name (left) ======================= -->
   <text x="64" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#f0f6fc">Mohamed Alkhazindar</text>
-  <text x="66" y="196" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="4" fill="#9198a1">AI ENGINEER · RIYADH</text>
+  <text x="66" y="196" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="13" font-weight="500" letter-spacing="4" fill="#9198a1">ARTIFICIAL INTELLIGENCE ENGINEER</text>
 
   <!-- scan line from robot toward the name -->
   <line x1="700" y1="118" x2="566" y2="120" stroke="#22d3ee" stroke-width="1.5" stroke-dasharray="3 6" opacity="0">
