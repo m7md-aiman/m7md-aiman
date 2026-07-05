@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 260" width="100%" role="img" aria-label="Mohamed Alkhazindar — AI Engineer, Riyadh">
-  <rect width="900" height="260" fill="#0d1117"/>
+  <rect x="0.5" y="0.5" width="899" height="259" rx="20" fill="#0d1117" stroke="#30363d"/>
 
   <!-- ======================= detected name (left) ======================= -->
   <text x="64" y="128" font-family="'Segoe UI', 'Helvetica Neue', Arial, sans-serif" font-size="44" font-weight="600" fill="#f0f6fc">Mohamed Alkhazindar</text>
