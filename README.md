@@ -1,52 +1,37 @@
-<h1 align="center">Mohamed Alkhazindar</h1>
-<p align="center"><em>AI Engineer · Computer Vision & LLM Research</em></p>
-<p align="center">Istanbul, Turkey · Bahcesehir University</p>
-
-<p align="center">
-  <a href="mailto:moha240205@gmail.com">Email</a> ·
-  <a href="https://www.linkedin.com/in/mohamed-alkhozendar/">LinkedIn</a> ·
-  <a href="https://github.com/m7md-aiman">GitHub</a>
-</p>
-
----
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
+  <img src="assets/header-light.svg" alt="Mohamed Alkhazindar — AI Engineer · Riyadh" width="100%">
+</picture>
 
 ### About
 
-I build AI systems that bridge research and real-world impact — from explainable
-computer-vision pipelines to Arabic-first multi-agent assistants. Currently focused
-on trustworthy ML, LLM evaluation, and applied deep learning.
+AI engineer specializing in agentic systems, LLM applications, and computer vision — B.Eng in Artificial Intelligence Engineering, Bahçeşehir University (2026).<br>
+I build Arabic-first AI products and have hands-on industry experience deploying RAG pipelines and multi-agent workflow orchestration.<br>
+Bilingual in Arabic & English · based in Riyadh, Saudi Arabia.
 
-### Tech
-
-**Languages** · `Python` · `C++` · `SQL`
-**ML / DL** · `PyTorch` · `TensorFlow` · `scikit-learn` · `YOLOv5`
-**Explainability** · `Grad-CAM` · `SHAP` · `LIME`
-**LLM / Agents** · `LangChain` · `Azure AI Foundry` · `OpenAI API`
-**Data** · `NumPy` · `Pandas` · `Jupyter` · `OpenCV`
+<sub>IBM Deep Learning & Machine Learning Specializations · Microsoft Azure AI Engineer Associate (in progress)</sub>
 
 ### Featured work
 
-<p>
-  <a href="https://github.com/m7md-aiman/Mudeer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m7md-aiman&repo=Mudeer&theme=default" />
-  </a>
-  <a href="https://github.com/m7md-aiman/XAI-Autonomous-Vehicles">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m7md-aiman&repo=XAI-Autonomous-Vehicles&theme=default" />
-  </a>
-</p>
-<p>
-  <a href="https://github.com/m7md-aiman/Computer-Vision-Follow-Me-Robot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m7md-aiman&repo=Computer-Vision-Follow-Me-Robot&theme=default" />
-  </a>
-  <a href="https://github.com/m7md-aiman/llm-hallucinations-paper">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=m7md-aiman&repo=llm-hallucinations-paper&theme=default" />
-  </a>
-</p>
+**[Mudeer](https://github.com/m7md-aiman/Mudeer)** — Arabic-first multi-agent operations assistant on Microsoft Foundry: three specialized agents (Customer Service, Document, Compliance) with Arabic RAG via Azure AI Search for ZATCA-compliant VAT processing, secured with managed-identity auth and Content Safety filters.
+
+**[AI Traffic System — ATMMS](https://github.com/m7md-aiman/AI-Traffic-System)** — led a 6-person team building an AI traffic system with a YOLO vision module for collision detection and queue measurement; the actuated signal controller cut network clearance time 47% and average trip time 28%.
+
+**[XAI for Autonomous Vehicles](https://github.com/m7md-aiman/XAI-Autonomous-Vehicles)** — explainable object detection for driving scenes with YOLOv5, Grad-CAM, and SHAP.
+
+**[Follow-Me Robot](https://github.com/m7md-aiman/Computer-Vision-Follow-Me-Robot)** — a computer-vision robot that detects, tracks, and follows a person in real time.
 
 ### Research
 
-- *LLM Hallucinations* — co-authored paper presented at **ICHORA 2026**.
+**"A Comprehensive Analysis on Hallucinations in Large Language Models"** — presented at ICHORA 2026 (IEEE-sponsored), Ankara, May 2026.<br>
+[llm-hallucinations-paper →](https://github.com/m7md-aiman/llm-hallucinations-paper)
 
----
+### Stack
 
-<p align="center"><sub>Open to collaborations in applied AI, CV, and LLM research.</sub></p>
+**Agents & LLMs** — `Python` · `LangChain` · `Microsoft Agent Framework` · `RAG` · `Hugging Face` · `Prompt Engineering` · `Fine-tuning`<br>
+**ML & Vision** — `PyTorch` · `TensorFlow` · `YOLO` · `OpenCV` · `Deep Learning`<br>
+**Platforms & Tools** — `Azure AI` · `Microsoft Foundry` · `FastAPI` · `Docker` · `n8n` · `Apache Airflow` · `Supabase` · `React` · `Streamlit`
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/mohamed-alkhozendar) · [moh-khz@hotmail.com](mailto:moh-khz@hotmail.com)
