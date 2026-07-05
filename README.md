@@ -1,7 +1,5 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg">
-  <img src="assets/header-light.svg" alt="Mohamed Alkhazindar — AI Engineer · Riyadh" width="100%">
-</picture>
+<img src="assets/header-dark.svg#gh-dark-mode-only" alt="Mohamed Alkhazindar — AI Engineer · Riyadh" width="100%">
+<img src="assets/header-light.svg#gh-light-mode-only" alt="Mohamed Alkhazindar — AI Engineer · Riyadh" width="100%">
 
 ### About
 
