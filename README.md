@@ -2,8 +2,8 @@
 
 ### About
 
-AI engineer specializing in agentic systems, LLM applications, and computer vision — B.Eng in Artificial Intelligence Engineering, Bahçeşehir University (2026).<br>
-I build Arabic-first AI products and have hands-on industry experience deploying RAG pipelines and multi-agent workflow orchestration.<br>
+AI engineer specializing in agentic systems, LLM applications, and computer vision with a Bachelor Degree in Artificial Intelligence Engineering, Bahçeşehir University (2026)
+I build and ship AI products and have hands-on industry experience deploying RAG pipelines and multi-agent workflow orchestration.
 Bilingual in Arabic & English · based in Riyadh, Saudi Arabia.
 
 <sub>IBM Deep Learning & Machine Learning Specializations · Microsoft Azure AI Engineer Associate (in progress)</sub>
