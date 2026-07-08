@@ -6,7 +6,7 @@ AI engineer specializing in agentic systems, LLM applications, and computer visi
 I build and ship AI products and have hands-on industry experience deploying RAG pipelines and multi-agent workflow orchestration.
 Bilingual in Arabic & English · based in Riyadh, Saudi Arabia.
 
-<sub>IBM Deep Learning & Machine Learning Specializations · Microsoft Azure AI Engineer Associate (in progress)</sub>
+<sub>IBM Deep Learning & Machine Learning Specializations </sub>
 
 ### Featured work
 
